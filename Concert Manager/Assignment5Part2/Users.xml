@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Users>
+  <User>
+    <UserName>TA</UserName>
+    <Password>W4egcWPI+Sghabf4VsZa3g==</Password>
+    <Role>Admin</Role>
+    <FirstName>TA</FirstName>
+    <LastName>TA</LastName>
+    <Email>ta@gmail.com</Email>
+  </User>
+  <User>
+    <FirstName>Manager</FirstName>
+    <LastName>Manager</LastName>
+    <UserName>manager1</UserName>
+    <Password>HQfZhfJD07Y=</Password>
+    <Role>Manager</Role>
+    <Email>manager@gmail.com</Email>
+  </User>
+  <User>
+    <FirstName>Staff</FirstName>
+    <LastName>Staff</LastName>
+    <UserName>staff1</UserName>
+    <Password>HQfZhfJD07Y=</Password>
+    <Role>Staff</Role>
+    <Email>staff@gmail.com</Email>
+  </User>
+  <User>
+    <UserName>shwetha</UserName>
+    <Password>HQfZhfJD07Y=</Password>
+    <Role>Member</Role>
+    <FirstName>Shwetha</FirstName>
+    <LastName>shwetha</LastName>
+    <Email>sveta15@gmail.com</Email>
+  </User>
+</Users>
